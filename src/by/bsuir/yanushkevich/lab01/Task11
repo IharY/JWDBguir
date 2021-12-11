@@ -1,0 +1,3 @@
+cd Users\lenovo\IdeaProjects\JWDBguir\src\by\bsuir\yanushkevich\lab01\Task09
+javac Main.java
+jar cfe task11.jar by\bsuir\yanushkevich\lab01\Task09\Main.class
